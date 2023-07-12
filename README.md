@@ -1,4 +1,4 @@
-# One-Pixel-Attack 🎯
+# One Pixel Attack 🎯
 
 ## Une menace imperceptible dans le monde de la classification d'images
 
